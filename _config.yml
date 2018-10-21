@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Anderson Chaves Carniel"
-title_separator          : "_"
+title_separator          : "-"
 name                     : &name "Anderson Chaves Carniel"
 description              : &description "I am a database researcher"
 url                      : https://accarniel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
