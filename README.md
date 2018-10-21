@@ -6,10 +6,10 @@ This website shows the academic trajectory of Anderson Chaves Carniel. Anderson 
 
 ## Projects
 
-Feel free to see my projects:
+Feel free to see some of my projects:
 
-* **[FESTIval]**(https://accarniel.github.io/FESTIval/), a versatile framework to evaluate spatial indices 
-* **[VagueGeometry]**(https://github.com/accarniel/VagueGeometry), an abstract data type for handling vague spatial objects on PostgreSQL
-* **[BJIn OLAP]**(https://github.com/accarniel/BJInOLAP), an OLAP tool based on the bitmap join index
+* **[FESTIval](https://accarniel.github.io/FESTIval/)**, a versatile framework to evaluate spatial indices 
+* **[VagueGeometry](https://github.com/accarniel/VagueGeometry)**, an abstract data type for handling vague spatial objects on PostgreSQL
+* **[BJIn OLAP](https://github.com/accarniel/BJInOLAP)**, an OLAP tool based on the bitmap join index
 
 
