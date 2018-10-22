@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="https://scholar.google.com.br/citations?user=EiYrqgEAAAAJ&hl=en" target="_blank">my Google Scholar profile</a>.</u>
 
 ## Journal Papers
 
-[Carniel, A. C.; Ciferri, R. R.; Ciferri, C. D. A. A generic and efficient framework for flash-aware spatial indexing. Information Systems, https://doi.org/10.1016/j.is.2018.09.004, 2018](https://www.sciencedirect.com/science/article/abs/pii/S0306437918300899)
+[Carniel, A. C.; Ciferri, R. R.; Ciferri, C. D. A. A generic and efficient framework for flash-aware spatial indexing. Information Systems, https://doi.org/10.1016/j.is.2018.09.004, 2018.](https://www.sciencedirect.com/science/article/abs/pii/S0306437918300899)
 
 [Carniel, A. C.; Ciferri, R. R.; Ciferri, C. D. A. Analyzing the Performance of Spatial Indices on Hard Disk Drives and Flash-based Solid State Drives. Journal of Information and Data Management 8 (1), p. 34-49, 2017.](https://seer.ufmg.br/index.php/jidm/article/view/4579)
 

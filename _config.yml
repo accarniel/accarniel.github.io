@@ -13,7 +13,7 @@ name                     : &name "Anderson Chaves Carniel"
 description              : &description "I am a database researcher"
 url                      : https://accarniel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "accarniel/accarniel.github.io"
+repository               : "accarniel.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master" # "master", "gh-pages"
+  branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -85,7 +85,7 @@ author:
   bio              : "I am a database researcher. My research interests are mainly in the areas of spatial database systems, and data management on emerging storage devices."  
   location         : "São Carlos, São Paulo, Brazil"
   employer         : "University of São Paulo"
-  googlescholar    : "https://scholar.google.com.br/citations?user=EiYrqgEAAAAJ&hl=pt-BR"
+  googlescholar    : "https://scholar.google.com.br/citations?user=EiYrqgEAAAAJ&hl=en"
   email            : "accarniel@gmail.com"
   uri              :
   bitbucket        :
@@ -255,7 +255,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
