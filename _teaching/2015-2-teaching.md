@@ -10,4 +10,4 @@ location: "São Carlos, Brazil"
 
 Undergraduate course: Data Analytical Processing.
 
-Supervison: Prof. Dr. Cristina Dutra de Aguiar Ciferri.
+Supervisor: Prof. Dr. Cristina Dutra de Aguiar Ciferri.
