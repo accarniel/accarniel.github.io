@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ### About me
+
 Anderson Chaves Carniel received the Master degree in Computer Science from the Federal University of São Carlos, Brazil, in 2014. He is currently a PhD student at the University of São Paulo, São Carlos, Brazil (conclusion expected for January 2019). 
 From 2015 to 2018 he was a teaching assistant at the University of São Paulo. His research interests include spatial databases, extensible databases, spatial indexing, data warehousing and OLAP, spatial fuzziness, and spatial databases on emerging storage devices. He has conducted research projects funded by Brazilian research agencies like CAPES, CNPq, and FAPESP.
 
