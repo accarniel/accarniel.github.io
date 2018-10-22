@@ -13,7 +13,7 @@ name                     : &name "Anderson Chaves Carniel"
 description              : &description "I am a database researcher"
 url                      : https://accarniel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "accarniel/accarniel.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Anderson Chaves Carniel"
   avatar           : "profile.png"
-  bio              : "I am a database researcher. My research interests are in the areas of spatial database systems, geographical information systems, and data management on emerging storage devices."  
+  bio              : "I am a database researcher. My research interests are mainly in the areas of spatial database systems, and data management on emerging storage devices."  
   location         : "São Carlos, São Paulo, Brazil"
   employer         : "University of São Paulo"
   googlescholar    : "https://scholar.google.com.br/citations?user=EiYrqgEAAAAJ&hl=pt-BR"
