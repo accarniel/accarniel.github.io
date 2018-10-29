@@ -9,7 +9,7 @@ You can also find my articles on <u><a href="https://scholar.google.com.br/citat
 
 ## Journal Papers
 
-[Carniel, A. C.; Ciferri, R. R.; Ciferri, C. D. A. A generic and efficient framework for flash-aware spatial indexing. Information Systems, https://doi.org/10.1016/j.is.2018.09.004, 2018.](https://www.sciencedirect.com/science/article/abs/pii/S0306437918300899)
+[Carniel, A. C.; Ciferri, R. R.; Ciferri, C. D. A. A generic and efficient framework for flash-aware spatial indexing. Information Systems, https://doi.org/10.1016/j.is.2018.09.004, 2018.](https://www.sciencedirect.com/science/article/abs/pii/S0306437918300899) [[Accepted Manuscript]](../papers/accepted_manuscript_InformationSystems2018.pdf)
 
 [Carniel, A. C.; Ciferri, R. R.; Ciferri, C. D. A. Analyzing the Performance of Spatial Indices on Hard Disk Drives and Flash-based Solid State Drives. Journal of Information and Data Management 8 (1), p. 34-49, 2017.](https://seer.ufmg.br/index.php/jidm/article/view/4579)
 
@@ -27,7 +27,7 @@ You can also find my articles on <u><a href="https://scholar.google.com.br/citat
 
 [Carniel, A. C.; Silva, T. B.; Ciferri, C. D. A. Understanding the Applicability of Flash Simulators on the Experimental Evaluation of Spatial Indices. In 9th Annual Non-volatile Memories Workshop (NVMW), p. 1-2, 2018.](https://www.researchgate.net/publication/327424917_Understanding_the_Applicability_of_Flash_Simulators_on_the_Experimental_Evaluation_of_Spatial_Indices)
 
-[Carniel, A. C.; Schneider, M. Fuzzy Inference on Fuzzy Spatial Objects (FIFUS) for Spatial Decision Support Systems. In Proceedings of the 2017 IEEE International Conference on Fuzzy Systems(FUZZ-IEEE 2017), p. 1-6, 2017](https://ieeexplore.ieee.org/document/8015707)
+[Carniel, A. C.; Schneider, M. Fuzzy Inference on Fuzzy Spatial Objects (FIFUS) for Spatial Decision Support Systems. In Proceedings of the 2017 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2017), p. 1-6, 2017](https://ieeexplore.ieee.org/document/8015707)
 
 [Carniel, A. C.; Ciferri, R. R.; Ciferri, C. D. A. A Generic and Efficient Framework for Spatial Indexing on Flash-based Solid State Drives. In Proceedings of the 21st European Conference on Advances in Databases and Information Systems (ADBIS 2017), p. 229-243, 2017.](https://link.springer.com/chapter/10.1007/978-3-319-66917-5_16)
 
@@ -53,15 +53,12 @@ You can also find my articles on <u><a href="https://scholar.google.com.br/citat
 
 [Carniel, A. C.; Schneider, M.; Ciferri, R. R; Ciferri, C. D. A. Modeling Fuzzy Topological Predicates for Fuzzy Regions. In Proceedings of the 22nd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2014),p. 529-532, 2014.](https://dl.acm.org/citation.cfm?doid=2666310.2666497)
 
-[Carniel, A. C.; Ciferri, R. R. Incorporando Dados Espaciais Vagos em Data Warehouses Geográficos: A Proposta do Tipo Abstrato de Dados VagueGeometry. In: Proceedings ofthe XXVIII Brazilian Symposium on Databases - Workshop of PhD and MSc Dissertations in Databases (SBBD 2013), p. 50-56, 2013. (in portuguese)](https://www.researchgate.net/publication/274837138_Incorporando_Dados_Espaciais_Vagos_em_Data_Warehouses_Geograficos_A_Proposta_do_Tipo_Abstrato_de_Dados_VagueGeometry)
+[Carniel, A. C.; Ciferri, R. R. Incorporando Dados Espaciais Vagos em Data Warehouses Geográficos: A Proposta do Tipo Abstrato de Dados VagueGeometry. In: Proceedings of the XXVIII Brazilian Symposium on Databases - Workshop of PhD and MSc Dissertations in Databases (SBBD 2013), p. 50-56, 2013. (in portuguese)](https://www.researchgate.net/publication/274837138_Incorporando_Dados_Espaciais_Vagos_em_Data_Warehouses_Geograficos_A_Proposta_do_Tipo_Abstrato_de_Dados_VagueGeometry)
 
-[Carniel, A. C.; Sá, A. A.; Brisighello, V. H. P.; Ribeiro, M. X.; Bueno, R.; Ciferri, R. R.; Ciferri, C. D. A. Query Processing over Data Warehouse using Relational Databases andNoSQL. In Proceedings of the XXXVIII Conferencia Latinoamericana En Informatica CLEI 2012), p. 1-9, 2012.](https://ieeexplore.ieee.org/document/6427228)
+[Carniel, A. C.; Sá, A. A.; Brisighello, V. H. P.; Ribeiro, M. X.; Bueno, R.; Ciferri, R. R.; Ciferri, C. D. A. Query Processing over Data Warehouse using Relational Databases and NoSQL. In Proceedings of the XXXVIII Conferencia Latinoamericana En Informatica CLEI 2012), p. 1-9, 2012.](https://ieeexplore.ieee.org/document/6427228)
 
 [Carniel, A. C.; Sá, A. A.; Ribeiro, M. X.; Bueno, R.; Ciferri, R. R.; Ciferri, C. D. A. Análise Experimental de Bases de Dados Relacionais e NoSQL no Processamento de Consultas sobre Data Warehouse. In Proceedings of the XXVII Brazilian Symposium on Databases (SBBD 2012), p. 113-120, 2012. (in portuguese)](https://www.researchgate.net/publication/274837090_Analise_Experimental_de_Bases_de_Dados_Relacionais_e_NoSQL_no_Processamento_de_Consultas_sobre_Data_Warehouse)
 
 [Carniel, A. C.; Siqueira, T. L. L. An OLAP Tool Based on the Bitmap Join Index. In Proceedings of the XXXVII Conferencia Latinoamericana En Informatica (CLEI 2011), p. 911-926, 2011.](https://www.researchgate.net/publication/274837012_An_OLAP_Tool_Based_on_the_Bitmap_Join_Index)
 
 [Carniel, A. C.; Siqueira, T. L. L. The Bitmap Join Index OLAP Tool. In Proceedings ofthe XXVI Brazilian Symposium on Databases - Demonstration Track (SBBD 2011), p.13-18, 2011.](https://www.researchgate.net/publication/267207155_The_Bitmap_Join_Index_OLAP_Tool)
-
-
-
