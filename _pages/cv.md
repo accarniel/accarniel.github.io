@@ -77,6 +77,11 @@ redirect_from:
 
 ### Conference Papers
 
+
+[Carniel, A. C.; Roumelis, G.; Ciferri, R. R.; Vassilakopoulos, M.; Corral, A.; Ciferri, C. D. A. An Efficient Flash-aware Spatial Index for Points. To appear in the XIX Brazilian Symposium on GeoInformatics (GeoInfo), 2018.](http://www.geoinfo.info/geoinfo2018/acceptedpapers.php)
+  
+[Castro, J. P. C.; Carniel, A. C.; Ciferri, C. D. A. A User-centric View of Distributed Spatial Data Management Systems. To appear in the XIX Brazilian Symposium on GeoInformatics (GeoInfo), 2018.](http://www.geoinfo.info/geoinfo2018/acceptedpapers.php)
+
 [Carniel, A. C. Spatial Indexing on Flash-based Solid State Drives. In Proceedings of the VLDB 2018 PhD Workshop, p. 1-4, 2018.](http://ceur-ws.org/Vol-2175/paper09.pdf)
 
 [Carniel, A. C.; Schneider, M. Spatial Plateau Algebra: An Executable Type System for Fuzzy Spatial Data Types. In Proceedings of the 2018 IEEE International Conference onFuzzy Systems (FUZZ-IEEE 2018), p. 1-8, 2018.](https://ieeexplore.ieee.org/document/8491565)
@@ -103,9 +108,9 @@ redirect_from:
 
 [Carniel, A. C.; Schneider, M.; Ciferri, R. R. FIFUS: A Rule-based Fuzzy Inference Model for Fuzzy Spatial Objects in Spatial Databases and GIS. In Proceedings of the 23rd SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2015), p. 83:1-83:4, 2015.](https://dl.acm.org/citation.cfm?id=2820874) 
 
-[Carniel, A. C.; Ciferri, R. R.; Ciferri, C. D. A. Embedding Vague Spatial Objects into Spatial Databases using the VagueGeometry Abstract Data Type. In Proceedings ofthe XVI Brazilian Symposium on GeoInformatics (GEOINFO 2015), p. 233-244, 2015.](http://mtc-m16c.sid.inpe.br/col/sid.inpe.br/mtc-m16c/2015/12.10.18.26/doc/proceedings2015_p23.pdf)
+[Carniel, A. C.; Ciferri, R. R.; Ciferri, C. D. A. Embedding Vague Spatial Objects into Spatial Databases using the VagueGeometry Abstract Data Type. In Proceedings of the XVI Brazilian Symposium on GeoInformatics (GEOINFO 2015), p. 233-244, 2015.](http://mtc-m16c.sid.inpe.br/col/sid.inpe.br/mtc-m16c/2015/12.10.18.26/doc/proceedings2015_p23.pdf)
 
-[Carniel, A. C.; Ciferri, R. R.; Ciferri, C. D. A. An Abstract Data Type to Handle Vague Spatial Objects Based on the Fuzzy Model. In Proceedings of the XVI Brazilian Symposiumon GeoInformatics (GEOINFO 2015), p. 210-221, 2015.](http://mtc-m16c.sid.inpe.br/col/sid.inpe.br/mtc-m16c/2015/12.10.18.17/doc/proceedings2015_p21.pdf)
+[Carniel, A. C.; Ciferri, R. R.; Ciferri, C. D. A. An Abstract Data Type to Handle Vague Spatial Objects Based on the Fuzzy Model. In Proceedings of the XVI Brazilian Symposium on GeoInformatics (GEOINFO 2015), p. 210-221, 2015.](http://mtc-m16c.sid.inpe.br/col/sid.inpe.br/mtc-m16c/2015/12.10.18.17/doc/proceedings2015_p21.pdf)
 
 [Carniel, A. C.; Schneider, M.; Ciferri, R. R; Ciferri, C. D. A. Modeling Fuzzy Topological Predicates for Fuzzy Regions. In Proceedings of the 22nd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2014),p. 529-532, 2014.](https://dl.acm.org/citation.cfm?doid=2666310.2666497)
 
