@@ -20,13 +20,13 @@ redirect_from:
 
 * System Analysis and Development degree, Federal Institute of Education, Science and Technology of São Paulo, Brazil, 2012
 * M.S. in Computer Science, Federal University of São Carlos, Brazil, 2014
-* Ph.D in Computer Science and Computational Mathematics, University of São Paulo, Brazil, 2019 (expected)
+* Ph.D. in Computer Science and Computational Mathematics, University of São Paulo, Brazil, 2018
 
 ## Teaching Experience
 
 ### University of São Paulo, São Carlos, Brazil
 
-* **Teaching assistant** - "Security Engineering" - since July 2018
+* **Teaching assistant** - "Security Engineering" - July 2018-December 2018
 * **Teaching assistant** - "File Organization" - February 2018–June 2018
 * **Teaching assistant** - "Data Analytical Processing" - July 2017–December 2017
 * **Teaching assistant** - "File Organization" - February 2017–June 2017
