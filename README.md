@@ -2,7 +2,7 @@
 
 ## About me
 
-This website shows the academic trajectory of Anderson Chaves Carniel. Anderson Chaves Carniel received the System Analysis and Development degree from Federal Institute of Education, Science and Technology of São Paulo, Brazil, in 2011. In 2014, he received the MSc degree in Computer Science from Federal University of São Carlos, Brazil. He is currently a PhD student at Department of Computer Science at University of São Paulo in São Carlos, Brazil. His main areas of interest are spatial databases, geographic information systems, spatial indexing, and database management on flash memories.
+This website shows the academic trajectory of Anderson Chaves Carniel. Currently, Anderson Chaves Carniel is Assistant Professor at the Federal University of Technology - Paraná, Dois Vizinhos, Brazil. He received the System Analysis and Development degree from Federal Institute of Education, Science and Technology of São Paulo, Brazil, in 2011. In 2014, he received the MSc degree in Computer Science from Federal University of São Carlos, Brazil. He is currently a PhD student at Department of Computer Science at University of São Paulo in São Carlos, Brazil. His main areas of interest are spatial databases, geographic information systems, spatial indexing, and database management on flash memories.
 
 ## Projects
 

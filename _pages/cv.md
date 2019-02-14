@@ -22,9 +22,17 @@ redirect_from:
 * M.S. in Computer Science, Federal University of São Carlos, Brazil, 2014
 * Ph.D. in Computer Science and Computational Mathematics, University of São Paulo, Brazil, 2018
 
+## Professional Experience
+
+* Federal University of Technology - Paraná, Dois Vizinhos, Brazil
+  * Assistant Professor since February 2019
+
 ## Teaching Experience
 
-### University of São Paulo, São Carlos, Brazil
+### Federal University of Technology - Paraná, Dois Vizinhos, Brazil - since 2019
+
+
+### University of São Paulo, São Carlos, Brazil - from 2015 to 2018
 
 * **Teaching assistant** - "Security Engineering" - July 2018-December 2018
 * **Teaching assistant** - "File Organization" - February 2018–June 2018
