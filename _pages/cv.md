@@ -91,7 +91,7 @@ redirect_from:
 
 [Carniel, A. C. Spatial Indexing on Flash-based Solid State Drives. In Proceedings of the VLDB 2018 PhD Workshop (VLDB 2018), p. 1-4, 2018.](http://ceur-ws.org/Vol-2175/paper09.pdf)
 
-[Carniel, A. C.; Schneider, M. Spatial Plateau Algebra: An Executable Type System for Fuzzy Spatial Data Types. In Proceedings of the 2018 IEEE International Conference onFuzzy Systems (FUZZ-IEEE 2018), p. 1-8, 2018.](https://ieeexplore.ieee.org/document/8491565)
+[Carniel, A. C.; Schneider, M. Spatial Plateau Algebra: An Executable Type System for Fuzzy Spatial Data Types. In Proceedings of the 2018 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2018), p. 1-8, 2018.](https://ieeexplore.ieee.org/document/8491565)
 
 [Carniel, A. C.; Silva, T. B.; Ciferri, C. D. A. Understanding the Applicability of Flash Simulators on the Experimental Evaluation of Spatial Indices. In 9th Annual Non-volatile Memories Workshop (NVMW 2018), p. 1-2, 2018.](https://www.researchgate.net/publication/327424917_Understanding_the_Applicability_of_Flash_Simulators_on_the_Experimental_Evaluation_of_Spatial_Indices)
 

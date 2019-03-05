@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Anderson Chaves Carniel"
   avatar           : "profile.png"
-  bio              : "I am a database researcher. My research interests are mainly in the areas of spatial database systems, and data management on emerging storage devices."  
-  location         : "São Carlos, São Paulo, Brazil"
-  employer         : "University of São Paulo"
+  bio              : "I am an Assistant Professor and database researcher. My research interests are mainly in the areas of spatial database systems, and data management on emerging storage devices."  
+  location         : "Dois Vizinhos, Paraná, Brazil"
+  employer         : "Federal University of Technology - Paraná"
   googlescholar    : "https://scholar.google.com.br/citations?user=EiYrqgEAAAAJ&hl=en"
   email            : "accarniel@gmail.com"
   uri              :
