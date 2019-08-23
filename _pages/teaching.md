@@ -7,11 +7,11 @@ author_profile: true
 
 ### Federal University of Technology - Paraná, Dois Vizinhos, Brazil - since 2019
 
-* ** "Fundamentals of Database Systems" - 2019
-* ** "Algorithms" - 2019 
-* ** "Computer Networks" - 2019 
-* ** "Information Security" - 2019
-* ** "Operating Systems" - 2019
+* "Fundamentals of Database Systems" - 2019
+* "Algorithms" - 2019 
+* "Computer Networks" - 2019 
+* "Information Security" - 2019
+* "Operating Systems" - 2019
 
 ### University of São Paulo, São Carlos, Brazil - from 2015 to 2018
 
