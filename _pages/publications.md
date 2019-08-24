@@ -11,13 +11,13 @@ You can also find my articles on <u><a href="https://scholar.google.com.br/citat
 
 [Carniel, A. C.; Ciferri, R. R.; Ciferri, C. D. A. A generic and efficient framework for flash-aware spatial indexing. Information Systems 82, p. 102-120, 2019.](https://www.sciencedirect.com/science/article/abs/pii/S0306437918300899) - [[Accepted Manuscript]](../papers/accepted_manuscript_InformationSystems2018.pdf)
 
-[Carniel, A. C.; Ciferri, R. R.; Ciferri, C. D. A. Analyzing the Performance of Spatial Indices on Hard Disk Drives and Flash-based Solid State Drives. Journal of Information and Data Management 8 (1), p. 34-49, 2017.](https://seer.ufmg.br/index.php/jidm/article/view/4579)
+[Carniel, A. C.; Ciferri, R. R.; Ciferri, C. D. A. Analyzing the Performance of Spatial Indices on Hard Disk Drives and Flash-based Solid State Drives. Journal of Information and Data Management 8 (1), p. 34-49, 2017.](https://periodicos.ufmg.br/index.php/jidm/article/view/376)
 
-[Carniel, A. C.; Ciferri, R. R.; Ciferri, C. D. A. The VagueGeometry Abstract Data Type. Journal of Information and Data Management 7 (1), p. 18-34, 2016.](https://seer.ufmg.br/index.php/jidm/article/view/1367/2645)
+[Carniel, A. C.; Ciferri, R. R.; Ciferri, C. D. A. The VagueGeometry Abstract Data Type. Journal of Information and Data Management 7 (1), p. 18-34, 2016.](https://periodicos.ufmg.br/index.php/jidm/article/view/326)
 
-[Carniel, A. C.; Ciferri, R. R.; Ciferri, C. D. A. Handling Fuzzy Points and Fuzzy Lines using the FuzzyGeometry Abstract Data Type. Journal of Information and Data Management 7 (1), p. 35-51, 2016.](https://seer.ufmg.br/index.php/jidm/article/view/1368/2646)
+[Carniel, A. C.; Ciferri, R. R.; Ciferri, C. D. A. Handling Fuzzy Points and Fuzzy Lines using the FuzzyGeometry Abstract Data Type. Journal of Information and Data Management 7 (1), p. 35-51, 2016.](https://periodicos.ufmg.br/index.php/jidm/article/view/325)
 
-[Carniel, A. C.; Siqueira, T. L. L. Querying Data Warehouses Efficiently using the Bitmap Join Index OLAP Tool. CLEI Electronic Journal 15 (2), p. 7, 2012.](http://www2.clei.org/cleiej/paper.php?id=243)
+[Carniel, A. C.; Siqueira, T. L. L. Querying Data Warehouses Efficiently using the Bitmap Join Index OLAP Tool. CLEI Electronic Journal 15 (2), p. 7, 2012.](http://www.clei.org/cleiej/index.php/cleiej/article/view/146)
 
 ## Conference Papers
 
@@ -61,10 +61,10 @@ Carniel, A. C.; Schneider, M. A Systematic Approach to Creating Fuzzy Region Obj
 
 [Carniel, A. C.; Ciferri, R. R. Incorporando Dados Espaciais Vagos em Data Warehouses Geográficos: A Proposta do Tipo Abstrato de Dados VagueGeometry. In: Proceedings of the XXVIII Brazilian Symposium on Databases - Workshop of PhD and MSc Dissertations in Databases (SBBD 2013), p. 50-56, 2013. (in portuguese)](https://www.researchgate.net/publication/274837138_Incorporando_Dados_Espaciais_Vagos_em_Data_Warehouses_Geograficos_A_Proposta_do_Tipo_Abstrato_de_Dados_VagueGeometry)
 
-[Carniel, A. C.; Sá, A. A.; Brisighello, V. H. P.; Ribeiro, M. X.; Bueno, R.; Ciferri, R. R.; Ciferri, C. D. A. Query Processing over Data Warehouse using Relational Databases and NoSQL. In Proceedings of the XXXVIII Conferencia Latinoamericana En Informatica CLEI 2012), p. 1-9, 2012.](https://ieeexplore.ieee.org/document/6427228)
+[Carniel, A. C.; Sá, A. A.; Brisighello, V. H. P.; Ribeiro, M. X.; Bueno, R.; Ciferri, R. R.; Ciferri, C. D. A. Query Processing over Data Warehouse using Relational Databases and NoSQL. In Proceedings of the XXXVIII Conferencia Latinoamericana En Informatica (CLEI 2012), p. 1-9, 2012.](https://ieeexplore.ieee.org/document/6427228)
 
 [Carniel, A. C.; Sá, A. A.; Ribeiro, M. X.; Bueno, R.; Ciferri, R. R.; Ciferri, C. D. A. Análise Experimental de Bases de Dados Relacionais e NoSQL no Processamento de Consultas sobre Data Warehouse. In Proceedings of the XXVII Brazilian Symposium on Databases (SBBD 2012), p. 113-120, 2012. (in portuguese)](https://www.researchgate.net/publication/274837090_Analise_Experimental_de_Bases_de_Dados_Relacionais_e_NoSQL_no_Processamento_de_Consultas_sobre_Data_Warehouse)
 
 [Carniel, A. C.; Siqueira, T. L. L. An OLAP Tool Based on the Bitmap Join Index. In Proceedings of the XXXVII Conferencia Latinoamericana En Informatica (CLEI 2011), p. 911-926, 2011.](https://www.researchgate.net/publication/274837012_An_OLAP_Tool_Based_on_the_Bitmap_Join_Index)
 
-[Carniel, A. C.; Siqueira, T. L. L. The Bitmap Join Index OLAP Tool. In Proceedings ofthe XXVI Brazilian Symposium on Databases - Demonstration Track (SBBD 2011), p.13-18, 2011.](https://www.researchgate.net/publication/267207155_The_Bitmap_Join_Index_OLAP_Tool)
+[Carniel, A. C.; Siqueira, T. L. L. The Bitmap Join Index OLAP Tool. In Proceedings of the XXVI Brazilian Symposium on Databases - Demonstration Track (SBBD 2011), p.13-18, 2011.](https://www.researchgate.net/publication/267207155_The_Bitmap_Join_Index_OLAP_Tool)
