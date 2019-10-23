@@ -9,6 +9,8 @@ You can also find my articles on <u><a href="https://scholar.google.com.br/citat
 
 ## Journal Papers
 
+[Carniel, A. C.; Ciferri, R. R.; Ciferri, C. D. A. FESTIval: A Versatile Framework for Conducting Experimental Evaluations of Spatial Indices. MethodsX, 2019.](https://www.sciencedirect.com/science/article/pii/S2215016119302717)
+
 [Carniel, A. C.; Ciferri, R. R.; Ciferri, C. D. A. A generic and efficient framework for flash-aware spatial indexing. Information Systems 82, p. 102-120, 2019.](https://www.sciencedirect.com/science/article/abs/pii/S0306437918300899) - [[Accepted Manuscript]](../papers/accepted_manuscript_InformationSystems2018.pdf)
 
 [Carniel, A. C.; Ciferri, R. R.; Ciferri, C. D. A. Analyzing the Performance of Spatial Indices on Hard Disk Drives and Flash-based Solid State Drives. Journal of Information and Data Management 8 (1), p. 34-49, 2017.](https://periodicos.ufmg.br/index.php/jidm/article/view/376)
@@ -21,7 +23,7 @@ You can also find my articles on <u><a href="https://scholar.google.com.br/citat
 
 ## Conference Papers
 
-Carniel, A. C.; Schneider, M. A Systematic Approach to Creating Fuzzy Region Objects from Real Spatial Data Sets. In Proceedings of the 2019 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2019), p. 1-6, 2019.
+[Carniel, A. C.; Schneider, M. A Systematic Approach to Creating Fuzzy Region Objects from Real Spatial Data Sets. In Proceedings of the 2019 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2019), p. 1-6, 2019.](https://ieeexplore.ieee.org/document/8858878)
 
 [Carniel, A. C.; Roumelis, G.; Ciferri, R. R.; Vassilakopoulos, M.; Corral, A.; Ciferri, C. D. A. An Efficient Flash-aware Spatial Index for Points. In Proceedings of the XIX Brazilian Symposium on GeoInformatics (GEOINFO 2018), p. 68-79, 2018.](https://www.researchgate.net/publication/329428256_An_Efficient_Flash-aware_Spatial_Index_for_Points)
 	
