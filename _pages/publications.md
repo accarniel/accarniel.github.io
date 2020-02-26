@@ -9,7 +9,9 @@ You can also find my articles on <u><a href="https://scholar.google.com.br/citat
 
 ## Journal Papers
 
-[Carniel, A. C.; Ciferri, R. R.; Ciferri, C. D. A. FESTIval: A Versatile Framework for Conducting Experimental Evaluations of Spatial Indices. MethodsX, 2019.](https://www.sciencedirect.com/science/article/pii/S2215016119302717)
+[Carniel, A. C.; Ciferri, R. R.; Ciferri, C. D. A. FESTIval: A Versatile Framework for Conducting Experimental Evaluations of Spatial Indices. MethodsX, vol. 7, 2020, 100695, 2020.](https://www.sciencedirect.com/science/article/pii/S2215016119302717)
+
+[Carniel, A. C.; Roumelis, G.; Ciferri, R. R.; Vassilakopoulos, M.; Corral, A.; Ciferri, C. D. A. Indexing Points on Flash-based Solid State Drives using the xBR+-tree. Journal of Information and Data Management 10 (1), p. 35-48, 2019.](https://periodicos.ufmg.br/index.php/jidm/article/view/12419)
 
 [Carniel, A. C.; Ciferri, R. R.; Ciferri, C. D. A. A generic and efficient framework for flash-aware spatial indexing. Information Systems 82, p. 102-120, 2019.](https://www.sciencedirect.com/science/article/abs/pii/S0306437918300899) - [[Accepted Manuscript]](../papers/accepted_manuscript_InformationSystems2018.pdf)
 

@@ -18,9 +18,9 @@ redirect_from:
 
 ## Education
 
-* System Analysis and Development degree, Federal Institute of Education, Science and Technology of São Paulo, Brazil, 2012
-* M.S. in Computer Science, Federal University of São Carlos, Brazil, 2014
 * Ph.D. in Computer Science and Computational Mathematics, University of São Paulo, Brazil, 2018
+* M.S. in Computer Science, Federal University of São Carlos, Brazil, 2014
+* System Analysis and Development degree, Federal Institute of Education, Science and Technology of São Paulo, Brazil, 2012
 
 ## Professional Experience
 
@@ -73,12 +73,15 @@ redirect_from:
   * Journal of Computing and Information Technology (CIT), 2016 and 2019
 * Reviewer for conferences
   * Brazilian Symposium on Databases, 2017 - 2018 - 2019
+  * Brazilian Symposium on GeoInformatics, 2019
 
 ## Publications
 
 ## Journal Papers
 
-[Carniel, A. C.; Ciferri, R. R.; Ciferri, C. D. A. FESTIval: A Versatile Framework for Conducting Experimental Evaluations of Spatial Indices. MethodsX, 2019.](https://www.sciencedirect.com/science/article/pii/S2215016119302717)
+[Carniel, A. C.; Ciferri, R. R.; Ciferri, C. D. A. FESTIval: A Versatile Framework for Conducting Experimental Evaluations of Spatial Indices. MethodsX, vol. 7, 2020, 100695, 2020.](https://www.sciencedirect.com/science/article/pii/S2215016119302717)
+
+[Carniel, A. C.; Roumelis, G.; Ciferri, R. R.; Vassilakopoulos, M.; Corral, A.; Ciferri, C. D. A. Indexing Points on Flash-based Solid State Drives using the xBR+-tree. Journal of Information and Data Management 10 (1), p. 35-48, 2019.](https://periodicos.ufmg.br/index.php/jidm/article/view/12419)
 
 [Carniel, A. C.; Ciferri, R. R.; Ciferri, C. D. A. A generic and efficient framework for flash-aware spatial indexing. Information Systems 82, p. 102-120, 2019.](https://www.sciencedirect.com/science/article/abs/pii/S0306437918300899) - [[Accepted Manuscript]](../papers/accepted_manuscript_InformationSystems2018.pdf)
 
@@ -142,6 +145,8 @@ redirect_from:
 
 
 ## Academic Distinctions and Prizes
+
+Best Paper Honorable Mention award for the paper entitled ["An Efficient Flash-aware Spatial Index for Points"](https://www.researchgate.net/publication/329428256_An_Efficient_Flash-aware_Spatial_Index_for_Points), presented at the Brazilian Symposium on Geoinformatics 2018 (Geoinfo 2018). This resulted in the publication of [its extended version at the Journal of Information and Data Management](https://periodicos.ufmg.br/index.php/jidm/article/view/12419).
 
 Honorable Mention award for the paper entitled ["A Generic and Efficient Framework for Spatial Indexing on Flash-based Solid State Drives"](https://link.springer.com/chapter/10.1007/978-3-319-66917-5_16), presented at the 21st European Conference on Advances in Databases and Information Systems (ADBIS 2017). This resulted in the publication of [its extended version at the Information Systems](https://www.sciencedirect.com/science/article/abs/pii/S0306437918300899).
 
