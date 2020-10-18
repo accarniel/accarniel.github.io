@@ -45,7 +45,7 @@ Professor of the MBA Program in Data Science (postgraduate diploma):
 
 ### Undergraduate Programs
 
-### Federal University of Technology - Paraná, Dois Vizinhos, Brazil - since 2019
+#### Federal University of Technology - Paraná, Dois Vizinhos, Brazil - since 2019
 
 * "Fundamentals of Database Systems" - 2019, 2020
 * "Algorithms in C" - 2019, 2020
@@ -53,7 +53,7 @@ Professor of the MBA Program in Data Science (postgraduate diploma):
 * "Computer Networks" - 2019 
 * "Information Security" - 2019
 
-### University of São Paulo, São Carlos, Brazil - from 2015 to 2018
+#### University of São Paulo, São Carlos, Brazil - from 2015 to 2018
 
 * **Teaching assistant** - "Security Engineering" - 2018
 * **Teaching assistant** - "File Organization" - 2016, 2017, 2018
