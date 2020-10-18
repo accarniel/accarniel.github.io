@@ -122,7 +122,7 @@ Professor of the MBA Program in Data Science (postgraduate diploma):
 
 ## Refereed Conference Papers
 
-[Carniel, A. C.; Schneider, M. Spatial Data Types for Heterogeneously Structured Fuzzy Spatial Collections and Compositions. In Proceedings of the 2020 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2020), pp. 1-8, 2019.](https://ieeexplore.ieee.org/document/9177620)
+[Carniel, A. C.; Schneider, M. Spatial Data Types for Heterogeneously Structured Fuzzy Spatial Collections and Compositions. In Proceedings of the 2020 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2020), pp. 1-8, 2020.](https://ieeexplore.ieee.org/document/9177620)
 
 [Carniel, A. C.; Schneider, M. A Systematic Approach to Creating Fuzzy Region Objects from Real Spatial Data Sets. In Proceedings of the 2019 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2019), pp. 1-6, 2019.](https://ieeexplore.ieee.org/document/8858878)
 
