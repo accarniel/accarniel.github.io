@@ -27,7 +27,7 @@ You can also find my articles on <u><a href="https://scholar.google.com.br/citat
 
 # Refereed Conference Papers
 
-[Carniel, A. C. Spatial Information Retrieval in Digital Ecosystems: A Comprehensive Survey. In Proceedings of the 12th International Conference on Management of Digital EcoSystems (MEDES’20), pp. 1-8, 2020.](https://www.researchgate.net/publication/345165292_Spatial_Information_Retrieval_in_Digital_Ecosystems_A_Comprehensive_Survey)
+[Carniel, A. C. Spatial Information Retrieval in Digital Ecosystems: A Comprehensive Survey. In Proceedings of the 12th International Conference on Management of Digital EcoSystems (MEDES’20), 2020.](https://www.researchgate.net/publication/345165292_Spatial_Information_Retrieval_in_Digital_Ecosystems_A_Comprehensive_Survey)
 
 [Carniel, A. C.; Schneider, M. Spatial Data Types for Heterogeneously Structured Fuzzy Spatial Collections and Compositions. In Proceedings of the 2020 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2020), pp. 1-8, 2020.](https://ieeexplore.ieee.org/document/9177620)
 
