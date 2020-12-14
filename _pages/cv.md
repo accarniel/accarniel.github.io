@@ -24,16 +24,19 @@ redirect_from:
 
 ## Professional Experience
 
-* Federal University of Technology - Paraná, Dois Vizinhos, Brazil
-  * Assistant Professor since February 2019
+* Federal University of São Carlos, São Carlos, SP, Brazil
+  * Assistant Professor since December 2020
+
+* Federal University of Technology - Paraná, Dois Vizinhos, PR, Brazil
+  * Assistant Professor from February 2019 to December 2020
 
 ## Teaching Experience
 
 ### Graduate Programs
 
-#### Federal University of Technology - Paraná, Dois Vizinhos, PR, Brazil 
+#### Federal University of Technology - Paraná, Dois Vizinhos, PR, Brazil - from 2019 to 2020
 
-Coordinator of the [MBA Program in Data Science (postgraduate diploma)](https://coens.dv.utfpr.edu.br/pos/ciencia-dados/) since March 2020
+Coordinator of the [MBA Program in Data Science (postgraduate diploma)](https://coens.dv.utfpr.edu.br/pos/ciencia-dados/) - from March 2020 to December 2020
 
 Professor of the MBA Program in Data Science (postgraduate diploma): 
 
@@ -45,7 +48,11 @@ Professor of the MBA Program in Data Science (postgraduate diploma):
 
 ### Undergraduate Programs
 
-#### Federal University of Technology - Paraná, Dois Vizinhos, Brazil - since 2019
+#### Federal University of São Carlos, São Carlos, SP, Brazil - since December 2020
+
+* TBD
+
+#### Federal University of Technology - Paraná, Dois Vizinhos, PR, Brazil - from 2019 to 2020
 
 * "Fundamentals of Database Systems" - 2019, 2020
 * "Algorithms in C" - 2019, 2020
@@ -53,12 +60,13 @@ Professor of the MBA Program in Data Science (postgraduate diploma):
 * "Computer Networks" - 2019 
 * "Information Security" - 2019
 
-#### University of São Paulo, São Carlos, Brazil - from 2015 to 2018
+#### University of São Paulo, São Carlos, SP, Brazil - from 2015 to 2018
 
 * **Teaching assistant** - "Security Engineering" - 2018
 * **Teaching assistant** - "File Organization" - 2016, 2017, 2018
 * **Teaching assistant** - "Data Analytical Processing" - 2015, 2017
 * **Teaching assistant** - "Databases Laboratory" - 2016
+
 
 <!---
 * **Teaching assistant** - "Security Engineering" - July 2018-December 2018
